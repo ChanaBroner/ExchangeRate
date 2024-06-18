@@ -1,0 +1,72 @@
+.exchange-rate-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #e6f7ff;
+  color: #003366;
+  font-family: Arial, sans-serif;
+}
+
+.input-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.input-section label {
+  font-size: 1.2em;
+  margin-bottom: 0.5em;
+}
+
+.input-section select {
+  padding: 0.5em;
+  font-size: 1em;
+  border-radius: 5px;
+  border: 1px solid #003366;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+  width: 200px;
+}
+
+.spacer {
+  height: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+}
+
+caption {
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #003366;
+}
+
+th, td {
+  border: 1px solid #003366;
+  padding: 0.5em 1em;
+  text-align: center;
+  color: #003366;
+}
+
+th {
+  background-color: #99ccff;
+  font-size: 0.9em;
+}
+
+td {
+  font-size: 0.85em;
+}
+
+tr:nth-child(even) {
+  background-color: #cce6ff;
+}
+
+tr:nth-child(odd) {
+  background-color: #e6f7ff;
+}
