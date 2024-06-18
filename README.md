@@ -1,12 +1,12 @@
 # **ExchangeRatesApi - Backend**
 
+## **Technologies Used**
+  **ASP.NET 8 C#**
+
 ExchangeRatesApi provides real-time exchange rates for a variety of currencies, including USD, EUR, GBP, CNY, and ILS. 
 Users can:
 - **Retrieve the list of supported currencies**
 - **Retrieve current exchange rates for a specified base currency**
-
-## **Technologies Used**
-  **ASP.NET 8 C#**
 
 # **ExchangeRatesApp - Frontend**
 
