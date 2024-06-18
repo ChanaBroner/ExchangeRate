@@ -25,7 +25,7 @@ Users can:
 - **Backend**: Uses a free API service to provide authentic exchange rate data instead of simulated rates
 
 ## **How It Works**
-1. **Run the Application**: Start the development server by running the vite command
+1. **Run the Application**: Start the development server by running the *`vite`* command
 2. **Select a Base Currency**: Choose a base currency from the drop-down menu to fetch exchange rates for different target currencies
  ![image](https://github.com/ChanaBroner/ExchangeRate/assets/125824958/4e0e1c07-4962-402d-b7eb-3827a23fb671)
 
