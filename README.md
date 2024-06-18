@@ -1,6 +1,7 @@
 # **ExchangeRatesApi - Backend**
 
-ExchangeRatesApi provides real-time exchange rates for a variety of currencies, including USD, EUR, GBP, CNY, and ILS. Users can:
+ExchangeRatesApi provides real-time exchange rates for a variety of currencies, including USD, EUR, GBP, CNY, and ILS. 
+Users can:
 - **Retrieve the list of supported currencies**
 - **Retrieve current exchange rates for a specified base currency**
 
@@ -24,17 +25,15 @@ ExchangeRatesApi provides real-time exchange rates for a variety of currencies, 
 - **Backend**: Uses a free API service to provide authentic exchange rate data instead of simulated rates
 
 ## **How It Works**
-1. **Run the Application**: Start the development server by running the Vite command
+1. **Run the Application**: Start the development server by running the vite command
 2. **Select a Base Currency**: Choose a base currency from the drop-down menu to fetch exchange rates for different target currencies
-3. **View Exchange Rates**: A table of exchange rates relative to the selected currency will appear
-4. **Dynamic Sorting**: Click on the table headers to display dynamically sorted exchange rates
+ ![image](https://github.com/ChanaBroner/ExchangeRate/assets/125824958/4e0e1c07-4962-402d-b7eb-3827a23fb671)
 
-## **Setup Instructions**
-1. Ensure Node.js and npm are installed on your system
-2. Install dependencies by running `npm install`
-3. Start the development server with `npm run dev`
-4. Access the application at `http://localhost:3000` in your web browser
+4. **View Exchange Rates**: A table of exchange rates relative to the selected currency will appear
+   ![image](https://github.com/ChanaBroner/ExchangeRate/assets/125824958/2502e3d7-02bf-4440-a88e-40f055050bf5)
 
-## **Deployment**
-1. Build the production-ready bundle using `npm run build`
-2. Deploy the generated `dist/` folder to your preferred hosting service
+5. **Dynamic Sorting**: Click on the table headers to display dynamically sorted exchange rates
+   ![image](https://github.com/ChanaBroner/ExchangeRate/assets/125824958/6675731c-dd79-49a0-82e6-f8691ff0d482)
+
+   ![image](https://github.com/ChanaBroner/ExchangeRate/assets/125824958/93dae83f-c9c5-4fcf-a7ed-e6ad6bfc16c3)
+
